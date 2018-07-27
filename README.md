@@ -1,5 +1,5 @@
 # New York Times News Application
-A New York Times preview application. Provides user with a list of the most popular news articles at the current moment, as well as a section to search for new or archived articles. Fetches JSON data from the New York Times REST API. Developed for Introduction to Application Development at Cornell University.
+A New York Times preview application. Provides user with a list of the most popular news articles at the current moment, as well as a section to search for new or archived articles. Fetches JSON data from the New York Times REST API. Developed for an introductory iOS course @ Cornell.
 
 ### External Dependencies 
 * Alamofire
